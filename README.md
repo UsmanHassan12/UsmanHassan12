@@ -2,7 +2,6 @@
 
 🚀 **Full-Stack Developer | Laravel | Node.js | React.js | SaaS | AI/ML Enthusiast**
 
-🎓 Currently pursuing a **Bachelor’s Degree in Data Science**
 
 I’m passionate about building scalable web applications, solving real-world problems, and constantly pushing my technical limits. I love clean architecture, automation, and crafting products that make an impact.
 
