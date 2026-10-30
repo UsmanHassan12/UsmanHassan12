@@ -7,7 +7,7 @@ I'm passionate about building scalable web applications, solving real-world prob
 ---
 
 ### 🔭 Currently Working On
-- Building a **SaaS platform** using **microservices architecture** — focusing on modularity, performance, and scalability.
+- Architecting a **SaaS platform** — choosing the right architecture for each problem, from **modular monoliths** to **distributed services**, with a focus on clean domain boundaries, performance, and long-term maintainability.
 - Shipping **client websites** with the team at [Bit Technologies](https://bittechnologies.co) using **Next.js**, **Nest.js**, **PostgreSQL** and **MongoDB** — tailor-made builds from staging to live launch.
 
 ---
